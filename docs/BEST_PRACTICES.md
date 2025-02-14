@@ -13,7 +13,7 @@
 watch -n1 'free -h; swapon --show; grep -i swappiness /etc/sysctl.conf'
 
 ## Performance Tuning
-```bash
+
 # Cache pressure adjustment
 echo "vm.vfs_cache_pressure=50" | sudo tee -a /etc/sysctl.conf
 

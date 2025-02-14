@@ -16,7 +16,7 @@ A professional-grade script for configuring swap space on Linux servers with aut
 
 ## Installation ⚡
 
-# Quick Install (via curl):
+### Quick Install (via curl):
 ```bash
 curl -sSL https://raw.githubusercontent.com/yourusername/swap-configurator/main/src/swap-manager.sh | sudo bash
 ```

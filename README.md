@@ -58,7 +58,7 @@ For recommendations on swap sizing and performance tuning, check out the [Best P
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community.
 
 ## CI/CD Status
-[![ShellCheck Validation](https://github.com/SteProTech/swap-configurator/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/yourusername/swap-configurator/actions/workflows/shellcheck.yml)
+[![ShellCheck Validation](https://github.com/SteProTech/swap-configurator/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/SteProTech/swap-configurator/actions/workflows/shellcheck.yml)
 
 ## Support
 If you find this project useful, please consider giving it a [⭐](https://github.com/SteProTech/swap-configurator) on GitHub!

@@ -18,3 +18,6 @@ A professional-grade script for configuring swap space on Linux servers with aut
 ```bash
 wget https://raw.githubusercontent.com/SteProTech/swap-configurator/main/src/swap-manager.sh
 chmod +x swap-manager.sh
+sudo ./swap-manager.sh
+
+

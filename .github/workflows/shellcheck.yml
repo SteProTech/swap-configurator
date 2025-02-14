@@ -1,13 +1,12 @@
-name: Code Validation
-
+name: ShellCheck Validation
 on: [push, pull_request]
 
 jobs:
   shellcheck:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Validate Script
-      uses: ludeeus/action-shellcheck@1.2.0
-      with:
-        path: "src/*.sh"
+      - uses: actions/checkout@v4
+      - name: Run ShellCheck
+        uses: ludeeus/action-shellcheck@2.1.0  # Updated version
+        with:
+          path: "src/*.sh"  # Ensure this matches your script location

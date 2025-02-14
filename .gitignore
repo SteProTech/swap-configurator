@@ -1,0 +1,23 @@
+# Ignore compiled scripts
+*.sh~
+*.swp
+*.swo
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore test files
+/test/
+/tmp/

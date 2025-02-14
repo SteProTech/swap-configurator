@@ -49,16 +49,16 @@ MAX_SWAP_SIZE=128              # Maximum swap size (GB)
 ```
 
 ## License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Best Practices 📘
-For recommendations on swap sizing and performance tuning, check out the Best Practices Guide.
+For recommendations on swap sizing and performance tuning, check out the [Best Practices Guide](docs/BEST-PRACTICES.md).
 
 ## Code of Conduct
-Please review our Code of Conduct to ensure a welcoming and inclusive community.
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community.
 
 ## CI/CD Status
-ShellCheck Validation
+[![ShellCheck Validation](https://github.com/SteProTech/swap-configurator/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/yourusername/swap-configurator/actions/workflows/shellcheck.yml)
 
 ## Support
-If you find this project useful, please consider giving it a ⭐ on GitHub!
+If you find this project useful, please consider giving it a [⭐](https://github.com/SteProTech/swap-configurator) on GitHub!
